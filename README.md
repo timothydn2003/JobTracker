@@ -5,5 +5,5 @@
   - Then run npm start
   - Navigate to the server folder and run npm install
   - Then run npm start
-  -
+  
 The Aplication should be running on your local machine now. Enjoy!
