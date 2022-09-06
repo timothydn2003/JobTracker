@@ -6,10 +6,11 @@
 
 # To run this application
   - Click code and then hit the open with github desktop button
+  - Clone the repository and open it in your IDE
   - Once this is open in your IDE, navigate to the client folder and run npm install in the terminal.
-  - Then run npm start
-  - Navigate to the server folder and run npm install
-  - Then run npm start
+  - Then run npm start in the client folder
+  - Navigate to the server folder and run npm install in the terminal
+  - Then run npm start in the server folder
   
 The Aplication should be running on your local machine now. Enjoy!
 
